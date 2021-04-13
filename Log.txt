@@ -1,0 +1,6 @@
+#Log file
+
+
+sample entry for log1
+sample entry for log2
+sample entry for log3
